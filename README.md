@@ -2,5 +2,5 @@
 
 This is a practice project that still needs stripe integration.
 
-## Application State Handling
+## Application State Management
 This application uses a redux style setup for state with the React hooks useContext and useReducer. See src/components/StateProvider.js and src/reducer.js.
